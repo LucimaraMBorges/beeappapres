@@ -1,2 +1,0 @@
-# CanvasGit
-Projeto Canvas-Senac
